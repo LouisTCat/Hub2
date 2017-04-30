@@ -9,7 +9,7 @@ You can learn more about Markdown here - and you can also create a link automati
 
 ## More about Markdown
 
-Release note: please me careful.
+**Release note: please be careful.**
 
 First, the simple stuff: *This is Italic* **This is Bold**
 
